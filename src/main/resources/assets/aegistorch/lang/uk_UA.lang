@@ -1,0 +1,10 @@
+tile.aegistorch.aegis_torch.name=Факел Егіди
+gui.aegistorch.title=Факел Егіди
+gui.aegistorch.pos=Позиція: %d, %d, %d
+gui.aegistorch.radius=Радіус: %d блоків
+gui.aegistorch.zone=Зона: коло %d в ширину, %d у висоту
+gui.aegistorch.show.on=Показати зону: ВКЛ
+gui.aegistorch.show.off=Показати зону: ВИКЛ
+gui.aegistorch.done=Готово
+gui.aegistorch.push.on=Виштовхувати ворожих мобів: ВКЛ
+gui.aegistorch.push.off=Виштовхувати ворожих мобів: ВИКЛ

@@ -1,0 +1,10 @@
+tile.aegistorch.aegis_torch.name=Aegis Torch
+gui.aegistorch.title=Aegis Torch
+gui.aegistorch.pos=Position: %d, %d, %d
+gui.aegistorch.radius=Radius: %d blocks
+gui.aegistorch.zone=Zone: circle %d wide, %d high
+gui.aegistorch.show.on=Show zone: ON
+gui.aegistorch.show.off=Show zone: OFF
+gui.aegistorch.done=Done
+gui.aegistorch.push.on=Push hostile mobs out: ON
+gui.aegistorch.push.off=Push hostile mobs out: OFF
